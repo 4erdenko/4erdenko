@@ -19,9 +19,11 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4erdenko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 I'm a Python Developer with a focus on backend development and data processing.  
 I love solving complex problems and building scalable, maintainable software solutions.
+I'm also an avid explorer of DevOps methodologies and am passionate about concepts such as CI/CD, integrating them actively in my projects.  
+I have a fondness for Telegram bots, firmly believing in automating tasks that can be done by bots.  
 
 ---
 
