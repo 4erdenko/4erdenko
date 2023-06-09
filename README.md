@@ -5,15 +5,15 @@
 
 ---
 
-
 ### About me:
 
+<img src="https://komarev.com/ghpvc/?username=4erdenko&style=flat-square&color=blue" alt=""/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/valentin-kharenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Landmesser_A">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -21,10 +21,10 @@
 
 
 I'm a Python Developer with a focus on backend development and data processing.  
-I love solving complex problems and building scalable, maintainable software solutions.  
-
+I love solving complex problems and building scalable, maintainable software solutions.
 
 ### Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353656/django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -43,6 +43,5 @@ I love solving complex problems and building scalable, maintainable software sol
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker Compose" alt="Docker Compose" width="40" height="40"/>&nbsp;
   <img src="https://www.mabl.com/hubfs/CICDBlog.png" title="CircleCI" alt="CircleCI" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-
 </div>
 
