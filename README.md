@@ -43,14 +43,10 @@ I love solving complex problems and building scalable, maintainable software sol
   <img src="https://www.svgrepo.com/show/14508/json-file.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker Compose" alt="Docker Compose" width="40" height="40"/>&nbsp;
-  <img src="https://www.mabl.com/hubfs/CICDBlog.png" title="CircleCI" alt="CircleCI" width="60" height="40"/>
+  <img src="https://www.mabl.com/hubfs/CICDBlog.png" title="CircleCI" alt="CI/CD" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4erdenko&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-</p>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4erdenko&theme=vision_friendly_dark) 
