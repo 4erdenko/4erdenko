@@ -19,7 +19,7 @@
 
 <br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4erdenko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 I'm a Python Developer with a focus on backend development and data processing.  
 I love solving complex problems and building scalable, maintainable software solutions.
 
@@ -49,4 +49,8 @@ I love solving complex problems and building scalable, maintainable software sol
 
 ---
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4erdenko&theme=vision_friendly_dark) 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4erdenko&theme=vision_friendly_dark" alt="GitHub Summary Cards"/>
+</p>
+
+
