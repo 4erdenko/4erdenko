@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eKDp7xvUdbCrC/giphy.gif" width="100"/>
+</div>
 
 
 <!--
@@ -16,6 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/eKDp7xvUdbCrC/giphy.gif" width="100"/>
-</div>
+
