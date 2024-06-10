@@ -9,9 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=4erdenko&style=flat-square&color=yellow" alt=""/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/valentin-kharenko/">
-    <img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://t.me/Landmesser_A">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
